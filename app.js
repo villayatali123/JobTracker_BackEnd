@@ -37,7 +37,7 @@ app.use(
 
 app.use(express.json());
 app.use(helmet());
-app.use(cros());
+app.use(cors());
 app.use(xss());
 
 // routes
