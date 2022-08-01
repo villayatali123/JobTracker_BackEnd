@@ -7,7 +7,7 @@ Author : Villayat Ali
 
 #### Framework : Express.js
 
-#### Database : Mongoose
+#### Database : MongoDB
 
 #### Password are encrypted properly using bcrypt package
 
